@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/javidnaheem" target="blank"><img src="https://img.shields.io/twitter/follow/javidnaheem?logo=twitter&style=for-the-badge" alt="javidnaheem" /></a> </p>
 
-- 🔭 I’m currently working as an Intern Software Developer Ascension Holdings Pvt Ltd
+- 🔭 I’m currently working as an Associate Software Developer IBIZ Pvt Ltd
 
 - 🌱 I’m currently learning **Laravel, Codeigniter, AngularJS**
 
-- 💬 Ask me about **MERN, MySQL, TypeScript, Next, Prisma, Sequelize, Laravel, Angular**
+- 💬 Ask me about **php, CI, MERN, MySQL, TypeScript, Next, Prisma, Sequelize, Laravel, Angular**
 
 - 📫 How to reach me **javidnaheem2001@gmail.com**
 
